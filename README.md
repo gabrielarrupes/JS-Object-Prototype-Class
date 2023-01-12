@@ -1,2 +1,2 @@
 # JS-Objects
-Aulas e exemplos de Objetos, suas propriedades e tipos, estudados na Formação Javascript Back-End da Alura.
+Aulas e exemplos de Objetos, Protótipos e Classes, suas propriedades, métodos e tipos, estudados na Formação Javascript Back-End da Alura.
